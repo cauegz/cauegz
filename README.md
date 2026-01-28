@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Cauê! 👋
 
-<!--
-**cauegz/cauegz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Técnico em Desenvolvimento de Sistemas** no **IFRS - Campus Canoas**. 
+Tenho grande interesse em lógica de programação, arquitetura de software e sistemas abertos.
 
-Here are some ideas to get you started:
+## Sobre Mim
+- Cursando Ensino Médio Técnico Integrado (2024 - 2027).
+- Atualmente focado em aprofundar conhecimentos em **PHP (MVC)** e **Java**.
+- Usuário entusiasta de **Linux** para desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+- **Linguagens:** PHP, Java, JavaScript, C.
+- **Banco de Dados:** MySQL / MariaDB.
+- **Ferramentas:** Git, GitHub, VS Code, Composer, intelliJ.
+
+## Evolução e Projetos
+Meus repositórios refletem minha jornada de aprendizado técnico:
+- **Web & PHP:** Transição prática do desenvolvimento **Procedural** para o **Orientado a Objetos (POO)**, com sistemas de autenticação, agendas integradas por usuário e implementação de **Arquitetura MVC**.
+- **Java:** Aplicações focadas em lógica de programação e sistemas de login.
+- **IFCTEC:** Projeto atual de gamificação utilizando padrões modernos de engenharia de software e gestão de dependências via **Composer**.
