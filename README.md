@@ -1,7 +1,5 @@
-# Olá, eu sou o Cauê! 👋
-
-Sou estudante de **Técnico em Desenvolvimento de Sistemas** no **IFRS - Campus Canoas**. 
-Tenho grande interesse em lógica de programação, arquitetura de software e sistemas abertos.
+Estudante de **Técnico em Desenvolvimento de Sistemas** no **IFRS - Campus Canoas**. 
+Grande interesse em lógica de programação, arquitetura de software e sistemas abertos.
 
 ## Sobre Mim
 - Cursando Ensino Médio Técnico Integrado (2024 - 2027).
