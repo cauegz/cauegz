@@ -1,10 +1,8 @@
 Estudante de **Técnico em Desenvolvimento de Sistemas** no **IFRS - Campus Canoas**. 
-Grande interesse em lógica de programação, arquitetura de software e sistemas abertos.
 
 ## Sobre Mim
 - Cursando Ensino Médio Técnico Integrado (2024 - 2027).
 - Atualmente focado em aprofundar conhecimentos em **PHP (MVC)** e **Java**.
-- Usuário entusiasta de **Linux** para desenvolvimento.
 
 ## Tecnologias e Ferramentas
 - **Linguagens:** PHP, Java, JavaScript, C.
