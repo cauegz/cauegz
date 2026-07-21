@@ -12,5 +12,5 @@ Estudante de **Técnico em Desenvolvimento de Sistemas** no **IFRS - Campus Cano
 ## Evolução e Projetos
 Meus repositórios refletem minha jornada de aprendizado técnico:
 - **Web & PHP:** Transição prática do desenvolvimento **Procedural** para o **Orientado a Objetos (POO)**, com sistemas de autenticação, agendas integradas por usuário e implementação de **Arquitetura MVC**.
-- **Java:** Aplicações focadas em lógica de programação e sistemas de login.
-- **IFCTEC:** Projeto atual de gamificação utilizando padrões modernos de engenharia de software e gestão de dependências via **Composer**.
+- **Java:** Aplicações focadas em lógica de programação e sistemas de login. Atualmente utilizando o SpringBoot para criar um projeto de detecção de golpes com IA
+
