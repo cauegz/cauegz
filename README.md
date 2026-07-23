@@ -64,8 +64,8 @@
 ### 🎓 Instituto Federal do Rio Grande do Sul (IFRS)
 
 - Monitor de Informática Básica
-- Participação em projetos de pesquisa e extensão
-- Desenvolvimento de soluções utilizando Inteligência Artificial aplicada à educação :contentReference[oaicite:1]{index=1}
+- Bolsista de extensão do projeto Revisão Online (desenvolvimento em React + PHP)
+- Desenvolvimento de soluções utilizando Inteligência Artificial aplicada à educação
 
 ---
 
