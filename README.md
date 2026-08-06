@@ -59,17 +59,6 @@
 
 ---
 
-# 📌 Experiência
-
-### 🎓 Instituto Federal do Rio Grande do Sul (IFRS)
-
-- Monitor de Informática Básica
-- Bolsista de extensão do projeto Revisão Online (desenvolvimento em React + PHP)
-- Desenvolvimento de soluções utilizando Inteligência Artificial aplicada à educação
-
----
-
-
 # 📈 Estatísticas
 
 <div align="center">
