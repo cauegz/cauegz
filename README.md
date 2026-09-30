@@ -65,7 +65,7 @@
 
 <img height="170" src="https://github-stats-extended.vercel.app/api?username=cauegz&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cauegz&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cauegz&layout=compact&theme=github_dark&hide_border=true&hide=hack"/>
 
 </div>
 
